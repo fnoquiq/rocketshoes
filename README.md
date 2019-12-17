@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![RUN-EXAMPLE](https://github.com/fnoquiq/rocketshoes/blob/master/run-example.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -32,3 +34,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 First install the package using `yarn global add json-server` to be able to use the functionality of simulating an fake API with the `server.json` file.
 
 After that, to execute the fake api, insert on the terminal `json-server server.json -p 3333 -w`
+
+### Reactotron
+
+You can use reactotron to make it easy to debug the application and it can be downloaded [here](https://github.com/infinitered/reactotron/releases).
+
+![REACTOTRON](https://github.com/fnoquiq/rocketshoes/blob/master/reactotron-example.png)
